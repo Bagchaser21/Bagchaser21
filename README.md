@@ -3,6 +3,7 @@
 **Aspiring Developer | Crypto Degen | Tech Enthusiast**
 
 ---
+Add Tech Stack & Skills badges
 
 ## 🔭 What I'm Up To
 - Hacking together **tools and scripts** for crypto tracking, airdrops, and testnets.  
