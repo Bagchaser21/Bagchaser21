@@ -53,9 +53,34 @@
 | Other | Crypto Trading Bots, Dashboard Automation, Web Scraping |
 
 ## 🚀 Featured Projects
-- **Notion Study Dashboard** — A sleek template to track tasks, deadlines, and projects efficiently.  
-- **Crypto Sniper Scripts** — Mini Python tools for spotting airdrops & opportunities.  
-- **[Project 3]** — Something experimental and fun.
+## 🚀 Featured Projects
+
+### 1. Crypto-tea
+📌 **Mini crypto project for exploring and tracking airdrops, coins, and degen moves.**  
+🔗 [Repo Link](https://github.com/Bagchaser21/Crypto-tea)  
+🛠 Tech: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![API](https://img.shields.io/badge/API-FF6C37?style=flat)  
+🌟 Status: Active / Experimenting
+
+---
+
+### 2. Tea
+📌 **Another crypto exploration repo — playground for scripts and ideas.**  
+🔗 [Repo Link](https://github.com/Bagchaser21/Tea)  
+🛠 Tech: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+🌟 Status: Active / Experimenting
+
+---
+
+### 3. Clade
+📌 **Experimental / personal project — testing scripts, logic, and automation ideas.**  
+🔗 [Repo Link](https://github.com/Bagchaser21/Clade)  
+🛠 Tech: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-4CAF50?style=flat)  
+🌟 Status: Experimental
+
+---
+
+### 4.
+
 
 > Always building, always testing, always learning.
 
