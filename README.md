@@ -2,6 +2,8 @@
 
 **Aspiring Developer | Crypto Degen | Tech Enthusiast**
 
+![Crypto Degen](https://img.shields.io/badge/Crypto-Degen-FF6F61?style=for-the-badge&logo=ethereum&logoColor=white&animation=glow)
+
 ---
 
 ## 💡 Tech Stack & Skills
@@ -19,6 +21,10 @@
 ---
 
 ## 🔭 What I'm Up To
+
+![Learning Python](https://img.shields.io/badge/Learning-Python-FFDD00?style=for-the-badge&logo=python&logoColor=black&animation=glow)
+![Exploring Crypto](https://img.shields.io/badge/Exploring-Crypto-4CAF50?style=for-the-badge&logo=bitcoin&logoColor=white&animation=glow)
+
 - Hacking together **tools and scripts** for crypto tracking, airdrops, and testnets.  
 - Building **side-projects** with Python & JavaScript.  
 - Experimenting with **automation, dashboards, and productivity hacks**.  
@@ -82,9 +88,9 @@
 ---
 
 ## 📫 Contact Me
-- **Email**: moozmoses21@gmail.com  
-- **WhatsApp / Phone**: 0799595282  
-- **X / Twitter**: `@Grind_lab`
+
+[![Email Me](https://img.shields.io/badge/Email-Moozmoses21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=glow)](mailto:moozmoses21@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@Grind_lab-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=glow)](https://twitter.com/Grind_lab)
 
 ---
 
